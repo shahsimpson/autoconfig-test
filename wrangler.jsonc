@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "autoconfig-test",
+  "compatibility_date": "2025-11-18",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": ".next"
+  }
+}
